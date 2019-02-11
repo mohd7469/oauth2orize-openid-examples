@@ -1,8 +1,3 @@
-Unmaintained
-===
-
-If you would like to maintain this project, please email your GitHub username to gerges@beshay.org to start the transfer process.
-
 # OpenID Connect extentions for Oauth2orize.
 
 Based on [oauth2orize: oauth2 provider example](https://github.com/gerges-beshay/oauth2orize-examples)
